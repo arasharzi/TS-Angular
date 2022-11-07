@@ -1,1 +1,1 @@
-# TS-Angular
+# TypeScript
